@@ -18,6 +18,8 @@ https://github.com/DSKSD/Pytorch_Fast_Campus_2018
 
 https://github.com/hunkim/PyTorchZeroToAll
 
+https://github.com/yunjey/pytorch-tutorial
+
 ##### Websites
 https://www.learnpytorch.io/00_pytorch_fundamentals/
 
