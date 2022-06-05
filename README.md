@@ -13,9 +13,12 @@ https://cs229.stanford.edu/lectures-spring2022/main_notes.pdf
 
 ##### GitHub links
 https://github.com/rguthrie3/DeepLearningForNLPInPytorch
+
 https://github.com/DSKSD/Pytorch_Fast_Campus_2018
+
 https://github.com/hunkim/PyTorchZeroToAll
 
 ##### Websites
 https://www.learnpytorch.io/00_pytorch_fundamentals/
+
 https://www.python-engineer.com/courses/pytorchbeginner/
