@@ -20,6 +20,8 @@ https://github.com/hunkim/PyTorchZeroToAll
 
 https://github.com/yunjey/pytorch-tutorial
 
+https://github.com/pd3nbplus/pd_MachineLearning
+
 ##### Websites
 https://www.learnpytorch.io/00_pytorch_fundamentals/
 
