@@ -23,6 +23,8 @@ https://github.com/yunjey/pytorch-tutorial
 https://github.com/pd3nbplus/pd_MachineLearning
 
 ##### Websites
+https://github.com/GokuMohandas/MadeWithML
+
 https://www.learnpytorch.io/00_pytorch_fundamentals/
 
 https://www.python-engineer.com/courses/pytorchbeginner/
