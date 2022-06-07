@@ -22,6 +22,8 @@ https://github.com/yunjey/pytorch-tutorial
 
 https://github.com/pd3nbplus/pd_MachineLearning
 
+https://github.com/Team-Neighborhood/I-want-to-study-Data-Science
+
 ##### Websites
 https://github.com/GokuMohandas/MadeWithML
 
