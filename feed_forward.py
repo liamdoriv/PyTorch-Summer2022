@@ -13,7 +13,6 @@
 '''
 
 '''Importation of modules'''
-from re import L
 import torch, torchvision
 import torch.nn as nn
 import torchvision.datasets as dataset
