@@ -24,6 +24,7 @@ https://github.com/pd3nbplus/pd_MachineLearning
 
 https://github.com/Team-Neighborhood/I-want-to-study-Data-Science
 
+https://github.com/JonathanSum/pytorchfundamentals
 ##### Websites
 https://github.com/GokuMohandas/MadeWithML
 
